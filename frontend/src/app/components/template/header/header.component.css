@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgba(22, 22, 23, .8);
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 22px;
+    justify-content: space-evenly;
+
+
+    .mat-icon {
+        max-height: 22px;
+        max-width: 22px;
+    }
+
+    .logo {
+        max-height: 22px;
+        max-width: 22px;
+    }
+}
+.header a {
+    margin-right: 30px;
+}
