@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: flex-end;
+    
+    background-color: gray
+}
+
+.footer span {
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
